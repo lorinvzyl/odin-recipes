@@ -1,0 +1,25 @@
+h1 {
+ text-align: center;
+}
+
+body {
+ background-color: #bdc97c; 
+}
+
+div {
+ background-color: #fff2cc;
+ margin: auto;
+ padding: 20px;
+ width: 75%;
+ border-radius: 25px;
+}
+
+a {
+ color: black;
+ font-size: 24px;
+}
+
+img {
+ height: 400px;
+ width: 400px;
+}
